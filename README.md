@@ -8,5 +8,8 @@ For our computer vision course, we were tasked in creating a programm capable of
 
 **The PDF file contains all the explanations for the implementation done for this project is available under the name: CR_SIVANESAN_KINGSTON_Groupe_2.pdf**
 
-Examples : 
-![alt text](https://github.com/SShivamshan/Augmented-Reality/blob/main/Cube.jpg?raw=true)
+Examples : This example is what we get through edges of the square defined by the user:  
+![alt text](https://github.com/SShivamshan/Augmented-Reality/blob/main/Cube.jpg?raw=true)  
+
+The following example is what we get when we detect automatically the center points of the cercle in order to create the cube: 
+![alt text](https://github.com/SShivamshan/Augmented-Reality/blob/main/Plot/Cube1.jpg?raw=true)
