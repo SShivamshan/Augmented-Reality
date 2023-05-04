@@ -6,4 +6,4 @@ For our computer vision course, we were tasked in creating a programm capable of
 
 **Language used :** Matlab and Computer Vision Toolbox  
 
-**The PDF file containing all the explanations for the implementation is available : CR_SIVANESAN_KINGSTON_Groupe_2.pdf**
+**The PDF file contains all the explanations for the implementation done for this project is available under the name: CR_SIVANESAN_KINGSTON_Groupe_2.pdf**
