@@ -11,5 +11,6 @@ For our computer vision course, we were tasked in creating a programm capable of
 Examples : This example is what we get through edges of the square defined by the user:  
 ![alt text](https://github.com/SShivamshan/Augmented-Reality/blob/main/Cube.jpg?raw=true)  
 
-The following example is what we get when we detect automatically the center points of the cercle in order to create the cube: 
+The following example is what we get when we detect automatically the center points of the cercle in order to create the cube:   
+
 ![alt text](https://github.com/SShivamshan/Augmented-Reality/blob/main/Plot/Cube1.jpg?raw=true)
