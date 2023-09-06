@@ -6,7 +6,7 @@ For our computer vision course, we were tasked in creating a program capable of 
 
 **Language used :** Matlab and Computer Vision Toolbox  
 
-**The PDF file contains all the explanations for the implementation done for this project is available under the name: CR_SIVANESAN_KINGSTON_Groupe_2.pdf**
+**The PDF file contains all the explanations for the implementation done for this project is available under the name:** <a href = "https://github.com/SShivamshan/Augmented-Reality/blob/main/CR_SIVANESAN_KINGSTON_Groupe_2.pdf"> PDF file</a>
 
 Examples : This example is what we get through edges of the square defined by the user:  
 ![alt text](https://github.com/SShivamshan/Augmented-Reality/blob/main/Cube.jpg?raw=true)  
